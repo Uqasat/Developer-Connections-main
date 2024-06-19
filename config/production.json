@@ -1,0 +1,6 @@
+
+{
+    "mongoURI": "mongodb+srv://ukku603:tamim123@internship.aiun5f8.mongodb.net/?retryWrites=true&w=majority&appName=internshipy",
+    "jwtSecret": "secret",
+    "githubToken": "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"
+  }
