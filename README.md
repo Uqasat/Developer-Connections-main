@@ -63,6 +63,6 @@ NODE_ENV=production node server.js
 
 ### Created By
 
-    Ali Ahmad
-    GitHub Username(mian-ali)
+    Muhammed Ukhasat
+    GitHub Username(uqasat)
 
